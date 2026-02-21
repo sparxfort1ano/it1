@@ -1,0 +1,7 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Информационные технологии. Основные понятия (!!!)}{2}{section.1}%
+\contentsline {section}{\numberline {2}Информационные технологии. Основные направления развития}{3}{section.2}%
+\contentsline {section}{\numberline {3}Разработка ПО как одно из направлений информационных технологий (!!!)}{4}{section.3}%
+\contentsline {section}{\numberline {4}Сопровождение ПО как одно из направлений информационных технологий}{6}{section.4}%
+\contentsline {section}{\numberline {5}Технологии сетевого взаимодействия как одно из направлений информационных технологий}{7}{section.5}%
+\contentsline {section}{\numberline {6}Интернет-технологии как одно из направлении информационных технологий}{8}{section.6}%
