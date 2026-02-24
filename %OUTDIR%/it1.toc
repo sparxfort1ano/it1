@@ -22,3 +22,4 @@
 \contentsline {section}{\numberline {21}Удобство как характеристика качественного ПО}{24}{section.21}%
 \contentsline {section}{\numberline {22}Сопровождаемость как характеристика качественного ПО}{25}{section.22}%
 \contentsline {section}{\numberline {23}Эффективность как характеристика качественного ПО}{26}{section.23}%
+\contentsline {section}{\numberline {24}Принципы выбора характеристик качества ПО. Понятия "<достаточно хорошего"> программного продукта (!!!)}{27}{section.24}%

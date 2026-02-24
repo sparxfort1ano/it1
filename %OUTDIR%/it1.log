@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.10)  25 FEB 2026 01:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.10)  25 FEB 2026 01:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -448,7 +448,7 @@ Package caption Info: hyperref package is loaded.
 ) (d:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count302
-) (out/it1.aux
+) (%OUTDIR%/it1.aux
 Package babel Info: 'russian' activates 'russian' shorthands.
 (babel)             Reported on input line 8.
 )
@@ -530,7 +530,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring ON on input line 22.
- (out/it1.out) (out/it1.out)
+ (%OUTDIR%/it1.out) (%OUTDIR%/it1.out)
 \@outlinefile=\write3
 \openout3 = `it1.out'.
 
@@ -542,7 +542,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 25.
- (out/it1.toc
+ (%OUTDIR%/it1.toc
 Overfull \hbox (38.75598pt too wide) in paragraph at lines 8--8
  [] [][][]\T2A/cmr/bx/n/12 ¬еб-технологии как на-прав-ле-ни€ ин-фор-ма-ци-он-ных тех-но-ло-гий. ¬еб-разработка 
  []
@@ -630,27 +630,27 @@ Overfull \hbox (0.20148pt too wide) in paragraph at lines 525--525
 []\T2A/cmr/bx/n/17.28 —опровождаемость как ха-рак-те-ри-сти-ка ка-че-ствен-но-
  []
 
-[25] [26] (out/it1.aux)
+[25] [26] [27] [28] (%OUTDIR%/it1.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
  ***********
 Package rerunfilecheck Info: File `it1.out' has not changed.
-(rerunfilecheck)             Checksum: 19DF5538E701E89BDF9DB6AE3C5F8DCE;13256.
+(rerunfilecheck)             Checksum: 0BA65EC6E937127511360F7BE03843F5;14089.
  ) 
 Here is how much of TeX's memory you used:
- 13333 strings out of 467538
- 210142 string characters out of 5423725
- 645243 words of memory out of 5000000
- 41921 multiletter control sequences out of 15000+600000
- 638079 words of font info for 59 fonts, out of 8000000 for 9000
+ 13343 strings out of 467538
+ 210333 string characters out of 5423725
+ 645453 words of memory out of 5000000
+ 41924 multiletter control sequences out of 15000+600000
+ 638420 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,79p,1013b,630s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on out/it1.pdf (26 pages, 206693 bytes).
+Output written on %OUTDIR%/it1.pdf (28 pages, 218718 bytes).
 PDF statistics:
- 436 PDF objects out of 1000 (max. 8388607)
- 390 compressed objects within 4 object streams
- 144 named destinations out of 1000 (max. 500000)
- 205 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 459 PDF objects out of 1000 (max. 8388607)
+ 409 compressed objects within 5 object streams
+ 150 named destinations out of 1000 (max. 500000)
+ 213 words of extra memory for PDF output out of 10000 (max. 10000000)
 
