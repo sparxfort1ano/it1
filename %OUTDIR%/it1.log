@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.10)  25 FEB 2026 01:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.10)  25 FEB 2026 05:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -554,11 +554,16 @@ Overfull \hbox (1.75807pt too wide) in paragraph at lines 17--17
  [] [][][]\T2A/cmr/bx/n/12 ѕрограммное обес-пе-че-ние ав-то-ма-ти-зи-ро-ван-ных си-стем как ком-плекс про- 
  []
 
+
+Overfull \hbox (3.87556pt too wide) in paragraph at lines 29--29
+ [] [][][]\T2A/cmr/bx/n/12 ѕрименение стра-те-гии чер-но-го €щи-ка при те-сти-ро-ва-нии. ¬оз-мож-ные кри- 
+ []
+
 )
 \tf@toc=\write4
 \openout4 = `it1.toc'.
 
- [2]
+ [2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -570,37 +575,37 @@ Overfull \hbox (5.16551pt too wide) in paragraph at lines 30--30
 []\T2A/cmr/bx/n/17.28 »нформационные тех-но-ло-гии. ќс-нов-ные по-н€-ти€ (!!!)[][][][][] 
  []
 
-[3{d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[4{d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 Overfull \hbox (2.60484pt too wide) in paragraph at lines 66--66
 []\T2A/cmr/bx/n/17.28 »нформационные тех-но-ло-гии. ќс-нов-ные на-прав-ле-ни€
  []
 
-[4] [5] [6] [7] [8]
+[5] [6] [7] [8] [9]
 Overfull \hbox (3.64807pt too wide) in paragraph at lines 175--175
 []\T2A/cmr/bx/n/17.28 »нтернет-технологии как од-но из на-прав-ле-нии ин-фор-
  []
 
-[9]
+[10]
 Overfull \hbox (15.24886pt too wide) in paragraph at lines 202--202
 []\T2A/cmr/bx/n/17.28 ¬еб-технологии как на-прав-ле-ни€ ин-фор-ма-ци-он-ных тех-
  []
 
-[10] [11]
+[11] [12]
 Underfull \hbox (badness 10000) in paragraph at lines 258--260
 
  []
 
-[12] [13] [14]
+[13] [14] [15]
 Overfull \hbox (9.02026pt too wide) in paragraph at lines 335--336
 \T2A/cmr/m/n/12 ва-ние (CAD-системы), управ-ле-ние слож-ны-ми тех-но-ло-ги-че-ски-ми про-цес-са-ми (SCADA). 
  []
 
-[15] [16]
+[16] [17]
 Overfull \hbox (0.7922pt too wide) in paragraph at lines 364--364
 []\T2A/cmr/bx/n/17.28 јвтоматизированные си-сте-мы и ос-нов-ные ви-ды обес-
  []
 
-[17]
+[18]
 Overfull \hbox (0.17152pt too wide) in paragraph at lines 397--397
 []\T2A/cmr/bx/n/17.28 ќсновные ви-ды обес-пе-че-ни€ функ-ци-о-ни-ро-ва-ни€ и их
  []
@@ -610,47 +615,57 @@ Overfull \hbox (2.67387pt too wide) in paragraph at lines 406--407
 []\T2A/cmr/m/n/12 ќрганизационное --- со-во-куп-ность пред-пи-са-ний, ре-гла-мен-ти-ру-ю-щих де-€-тель-ность лю-
  []
 
-[18]
+[19]
 Overfull \hbox (1.04234pt too wide) in paragraph at lines 434--435
 []\T2A/cmr/m/n/12 “рудозатраты: со-зда-ние тре-бу-ет зна-чи-тель-ных уси-лий, ча-сто из-ме-р€-е-мых в человеко-
  []
 
-[19] [20] [21]
+[20] [21] [22]
 Overfull \hbox (5.19354pt too wide) in paragraph at lines 495--496
 \T2A/cmr/m/n/14.4 фи-ка-ции. Ќа-при-мер, функ-ци-о-наль-ность веб-приложени€ дл€ онлайн-банкинга
  []
 
-[22] [23]
+[23] [24]
 Overfull \hbox (9.74231pt too wide) in paragraph at lines 519--520
 \T2A/cmr/m/n/14.4 н€т-ный ин-тер-фейс -- вы-со-кое удоб-ство. “ак, у веб-приложени€ онлайн-банкинга
  []
 
-[24]
+[25]
 Overfull \hbox (0.20148pt too wide) in paragraph at lines 525--525
 []\T2A/cmr/bx/n/17.28 —опровождаемость как ха-рак-те-ри-сти-ка ка-че-ствен-но-
  []
 
-[25] [26] [27] [28] (%OUTDIR%/it1.aux)
+[26] [27] [28] [29] [30] [31] [32] [33]
+Overfull \hbox (0.2689pt too wide) in paragraph at lines 664--665
+\T2A/cmr/m/n/14.4 ное те-сти-ро-ва-ние), некор-рект-ные дан-ные (нега-тив-ное те-сти-ро-ва-ние), гра-
+ []
+
+[34] [35] [36] [37] [38] [39]
+Overfull \hbox (4.24141pt too wide) in paragraph at lines 757--758
+[]\T2A/cmr/m/n/14.4 Google Style Guides --- стиль дл€ Java и C++, при-н€-тый ком-па-ни-ей Google. 
+ []
+
+[40] (%OUTDIR%/it1.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
  ***********
 Package rerunfilecheck Info: File `it1.out' has not changed.
-(rerunfilecheck)             Checksum: 0BA65EC6E937127511360F7BE03843F5;14089.
+(rerunfilecheck)             Checksum: 6E66711647DB77D5BDCFDF0672EEDE77;19193.
  ) 
 Here is how much of TeX's memory you used:
- 13343 strings out of 467538
- 210333 string characters out of 5423725
- 645453 words of memory out of 5000000
- 41924 multiletter control sequences out of 15000+600000
+ 13407 strings out of 467538
+ 211007 string characters out of 5423725
+ 647777 words of memory out of 5000000
+ 41940 multiletter control sequences out of 15000+600000
  638420 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,79p,1013b,630s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on %OUTDIR%/it1.pdf (28 pages, 218718 bytes).
+Output written on %OUTDIR%/it1.pdf (40 pages, 243689 bytes).
 PDF statistics:
- 459 PDF objects out of 1000 (max. 8388607)
- 409 compressed objects within 5 object streams
- 150 named destinations out of 1000 (max. 500000)
- 213 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 600 PDF objects out of 1000 (max. 8388607)
+ 537 compressed objects within 6 object streams
+ 198 named destinations out of 1000 (max. 500000)
+ 277 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,8 +1,8 @@
 # Fdb version 4
-["pdflatex"] 1771973762.34597 "d:/Learning/LatexStepik/it1/it1.tex" "out/it1.pdf" "it1" 1771973765.52943 0
-  "%OUTDIR%/it1.aux" 1771973765 9847 bb15074deabcd1a6e320b96d085b8bbf "pdflatex"
-  "%OUTDIR%/it1.out" 1771973765 14089 0ba65ec6e937127511360f7be03843f5 "pdflatex"
-  "%OUTDIR%/it1.toc" 1771973765 4501 25059e7f4a160f703d9112366c00551c "pdflatex"
+["pdflatex"] 1771988284.28374 "d:/Learning/LatexStepik/it1/it1.tex" "out/it1.pdf" "it1" 1771988285.7626 0
+  "%OUTDIR%/it1.aux" 1771988285 13273 005799ffd4788a841f4afd5c56edb6fc "pdflatex"
+  "%OUTDIR%/it1.out" 1771988285 19193 6e66711647db77d5bdcfdf0672eede77 "pdflatex"
+  "%OUTDIR%/it1.toc" 1771988285 6089 24673811e71af3fcb1a4e1260f1a9c25 "pdflatex"
   "c:/Users/vladt/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1771193097 3308 eee81981029f67083258db36df06e523 ""
   "c:/Users/vladt/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1771176461 3304 6a543c07045572737981351171e0505e ""
   "c:/Users/vladt/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1768092224 3312 d199be9bd555944e2403193d58a0256a ""
@@ -12,7 +12,7 @@
   "c:/Users/vladt/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1771176367 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "c:/Users/vladt/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1768092221 3252 3140686608bdcae603a09a7973fb9e55 ""
   "c:/Users/vladt/.texlive2025/texmf-var/fonts/tfm/lh/lh-t2a/larm2074.tfm" 1771176364 3264 c29ba0a7d68c56f5a738fbe91d6d9e9d ""
-  "d:/Learning/LatexStepik/it1/it1.tex" 1771973760 61301 7ccb6172020665c76392f448f6daecc5 ""
+  "d:/Learning/LatexStepik/it1/it1.tex" 1771988283 85416 50b1535d8a842cb2feb50aecb7ec2cba ""
   "d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1767994989 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "d:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1767994989 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "d:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1767997936 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -98,7 +98,7 @@
   "d:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1768007360 5587484 838956946e142a6c16840c0a1e858f0a ""
   "d:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1768008118 3635714 1e2b8474693b614b0c78cc4194dc9e4e ""
   "d:/texlive/2025/texmf.cnf" 1768007279 713 e69b156964470283e0530f5060668171 ""
-  "it1.tex" 1771973760 61301 7ccb6172020665c76392f448f6daecc5 ""
+  "it1.tex" 1771988283 85416 50b1535d8a842cb2feb50aecb7ec2cba ""
   (generated)
   "%OUTDIR%/it1.aux"
   "%OUTDIR%/it1.log"

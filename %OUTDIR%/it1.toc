@@ -1,25 +1,33 @@
 \babel@toc {russian}{}\relax 
-\contentsline {section}{\numberline {1}Информационные технологии. Основные понятия (!!!)}{3}{section.1}%
-\contentsline {section}{\numberline {2}Информационные технологии. Основные направления развития}{4}{section.2}%
-\contentsline {section}{\numberline {3}Разработка ПО как одно из направлений информационных технологий (!!!)}{5}{section.3}%
-\contentsline {section}{\numberline {4}Сопровождение ПО как одно из направлений информационных технологий}{7}{section.4}%
-\contentsline {section}{\numberline {5}Технологии сетевого взаимодействия как одно из направлений информационных технологий}{8}{section.5}%
-\contentsline {section}{\numberline {6}Интернет-технологии как одно из направлении информационных технологий}{9}{section.6}%
-\contentsline {section}{\numberline {7}Веб-технологии как направления информационных технологий. Веб-разработка (!!!)}{10}{section.7}%
-\contentsline {section}{\numberline {8}Технологии работы с медиаконтентом как направление информационных технологий}{11}{section.8}%
-\contentsline {section}{\numberline {9}Базы данных, базы знаний как средства поддержки информационных технологий}{12}{section.9}%
-\contentsline {section}{\numberline {10}Искусственный интеллект и машинное обучение как одно из направлений информационных технологий}{13}{section.10}%
-\contentsline {section}{\numberline {11}Информационная безопасность как одно из направлений информационных технологий}{14}{section.11}%
-\contentsline {section}{\numberline {12}Крупные комплексные решения как одно из направлений информационных технологий}{15}{section.12}%
-\contentsline {section}{\numberline {13}Программирование. Основные понятие и процессы}{16}{section.13}%
-\contentsline {section}{\numberline {14}Автоматизированные системы и основные виды обеспечения их функционирования}{17}{section.14}%
-\contentsline {section}{\numberline {15}Основные виды обеспечения функционирования и их взаимосвязь (!!!)}{18}{section.15}%
-\contentsline {section}{\numberline {16}Программное обеспечение автоматизированных систем как комплекс программ. Особенности создания комплексов программ}{19}{section.16}%
-\contentsline {section}{\numberline {17}Основная задача профессионального программирования и понятие качества ПО (!!!)}{20}{section.17}%
-\contentsline {section}{\numberline {18}Понятие качества ПО и его основные характеристики (!!!)}{21}{section.18}%
-\contentsline {section}{\numberline {19}Функциональность как характеристика качественного ПО}{22}{section.19}%
-\contentsline {section}{\numberline {20}Надежность как характеристика качественного ПО}{23}{section.20}%
-\contentsline {section}{\numberline {21}Удобство как характеристика качественного ПО}{24}{section.21}%
-\contentsline {section}{\numberline {22}Сопровождаемость как характеристика качественного ПО}{25}{section.22}%
-\contentsline {section}{\numberline {23}Эффективность как характеристика качественного ПО}{26}{section.23}%
-\contentsline {section}{\numberline {24}Принципы выбора характеристик качества ПО. Понятия "<достаточно хорошего"> программного продукта (!!!)}{27}{section.24}%
+\contentsline {section}{\numberline {1}Информационные технологии. Основные понятия (!!!)}{4}{section.1}%
+\contentsline {section}{\numberline {2}Информационные технологии. Основные направления развития}{5}{section.2}%
+\contentsline {section}{\numberline {3}Разработка ПО как одно из направлений информационных технологий (!!!)}{6}{section.3}%
+\contentsline {section}{\numberline {4}Сопровождение ПО как одно из направлений информационных технологий}{8}{section.4}%
+\contentsline {section}{\numberline {5}Технологии сетевого взаимодействия как одно из направлений информационных технологий}{9}{section.5}%
+\contentsline {section}{\numberline {6}Интернет-технологии как одно из направлении информационных технологий}{10}{section.6}%
+\contentsline {section}{\numberline {7}Веб-технологии как направления информационных технологий. Веб-разработка (!!!)}{11}{section.7}%
+\contentsline {section}{\numberline {8}Технологии работы с медиаконтентом как направление информационных технологий}{12}{section.8}%
+\contentsline {section}{\numberline {9}Базы данных, базы знаний как средства поддержки информационных технологий}{13}{section.9}%
+\contentsline {section}{\numberline {10}Искусственный интеллект и машинное обучение как одно из направлений информационных технологий}{14}{section.10}%
+\contentsline {section}{\numberline {11}Информационная безопасность как одно из направлений информационных технологий}{15}{section.11}%
+\contentsline {section}{\numberline {12}Крупные комплексные решения как одно из направлений информационных технологий}{16}{section.12}%
+\contentsline {section}{\numberline {13}Программирование. Основные понятия и процессы}{17}{section.13}%
+\contentsline {section}{\numberline {14}Автоматизированные системы и основные виды обеспечения их функционирования}{18}{section.14}%
+\contentsline {section}{\numberline {15}Основные виды обеспечения функционирования и их взаимосвязь (!!!)}{19}{section.15}%
+\contentsline {section}{\numberline {16}Программное обеспечение автоматизированных систем как комплекс программ. Особенности создания комплексов программ}{20}{section.16}%
+\contentsline {section}{\numberline {17}Основная задача профессионального программирования и понятие качества ПО (!!!)}{21}{section.17}%
+\contentsline {section}{\numberline {18}Понятие качества ПО и его основные характеристики (!!!)}{22}{section.18}%
+\contentsline {section}{\numberline {19}Функциональность как характеристика качественного ПО}{23}{section.19}%
+\contentsline {section}{\numberline {20}Надежность как характеристика качественного ПО}{24}{section.20}%
+\contentsline {section}{\numberline {21}Удобство как характеристика качественного ПО}{25}{section.21}%
+\contentsline {section}{\numberline {22}Сопровождаемость как характеристика качественного ПО}{26}{section.22}%
+\contentsline {section}{\numberline {23}Эффективность как характеристика качественного ПО}{27}{section.23}%
+\contentsline {section}{\numberline {24}Принципы выбора характеристик качества ПО. Понятия "<достаточно хорошего"> программного продукта (!!!)}{28}{section.24}%
+\contentsline {section}{\numberline {25}Тестирование и отладка ПО как взаимосвязанные процессы. Основные принципы тестирования}{30}{section.25}%
+\contentsline {section}{\numberline {26}Тестирование и отладка ПО как взаимосвязанные процессы. Основные принципы отладки}{32}{section.26}%
+\contentsline {section}{\numberline {27}Основные стратегии тестирования. Понятие о критериях тестирования (!!!)}{33}{section.27}%
+\contentsline {section}{\numberline {28}Применение стратегии черного ящика при тестировании. Возможные критерии тестирования (!!!)}{34}{section.28}%
+\contentsline {section}{\numberline {29}Применение стратегии белого ящика при тестировании. Возможные критерии тестирования (!!!)}{36}{section.29}%
+\contentsline {section}{\numberline {30}Стратегия черного ящика и нагрузочное тестирование}{38}{section.30}%
+\contentsline {section}{\numberline {31}Стратегия черного ящика. Модульное, интеграционное и регрессионное тестирование}{39}{section.31}%
+\contentsline {section}{\numberline {32}Понятие стиля программирования (общая характеристика)}{40}{section.32}%
